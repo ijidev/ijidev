@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ijidev
+- 👋 Hi, I’m @ikenna
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PHP and laravel framework
+- 🌱 I’m currently building webapps using laravel PHP framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
